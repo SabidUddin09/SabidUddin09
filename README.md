@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SabidUddin09
 - 👀 I’m interested in Science & Technology 
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning Python & C++
 - 📫 How to reach me researchersabid@gmail.com
 <!---
 SabidUddin09/SabidUddin09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
